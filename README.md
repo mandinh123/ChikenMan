@@ -11,3 +11,9 @@
 * Trò chơi kết thúc khi chú gà không vượt qua được chướng ngại vật.
 
 * Ấn nút Quay lại để chơi lại từ đầu.
+
+# Tư liệu
+
+* Hình ảnh : lấy từ itch.io
+
+* Tham khảo và học tập qua lazyfooo, youtube "Phát triển phần mềm" series sdl2
