@@ -17,3 +17,9 @@
 * Hình ảnh : lấy từ itch.io
 
 * Tham khảo và học tập qua lazyfooo, youtube "Phát triển phần mềm" series sdl2
+
+# Hướng dẫn cài đặt
+
+* tải zip code trên github
+
+* giải nén zip và chạy trên codeblock 32 bit
